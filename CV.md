@@ -1,7 +1,7 @@
-## [Landès Martin][photo]
+## [Landès Martin][https://www.gravatar.com/avatar/84840?d=monsterid&s=300]
 ### [65 tigran mets 0005 Erevan][map]
 [map]: https://g.co/kgs/sJ75n2V 
-[photo]: https://www.gravatar.com/avatar/84840?d=monsterid&s=300
+
 [photo 2]: https://www.cerfi.ch/Htdocs/Images/IF_Standard/puid_2845933e-bec8-4acc-a4b8-48ff57d1f9e6_403_5556.jpg
 ## Presentation 
 ***
